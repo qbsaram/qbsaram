@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Chadbot (no it's not a typo)](https://github.com/qbsaram/Chadbot)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/qbsaram?tab=repositories](https://github.com/qbsaram?tab=repositories)
 
